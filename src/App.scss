@@ -1,0 +1,19 @@
+#menu-dropdown {
+    width: 200px;
+    height: 200000px;
+    position: relative;
+    overflow-x: hidden;
+    .element {
+        height: 18px;
+        border: 1px solid;
+        position: relative;
+        top: 0;
+    }
+}
+
+.menu-container {
+    border: 1px solid;
+    height: 200px;
+    width: 200px;
+    overflow: auto;
+}
